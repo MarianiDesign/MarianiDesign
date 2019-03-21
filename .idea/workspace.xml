@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeMePresente2/img/Cegep_Trois-Rivieres.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresente2/img/Enfants_devant_le_lac.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresente2/img/Mont_Rushmore_kids.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresente2/img/mont_ski_alpes.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloCSSWorld/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloCSSWorld/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente1/messports.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/messports.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JeMePresente2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente2/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,22 +16,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresente1/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="103">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloCSSWorld/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloCSSWorld/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -41,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,16 +58,18 @@
         <option value="$PROJECT_DIR$/messports.html" />
         <option value="$PROJECT_DIR$/mesloisirs.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/JeMePresente1/messports.html" />
         <option value="$PROJECT_DIR$/JeMePresente1/mesetudes.html" />
         <option value="$PROJECT_DIR$/JeMePresente1/index.html" />
+        <option value="$PROJECT_DIR$/JeMePresente1/messports.html" />
         <option value="$PROJECT_DIR$/JeMePresente2/index.html" />
+        <option value="$PROJECT_DIR$/HelloCSSWorld/index.html" />
+        <option value="$PROJECT_DIR$/HelloCSSWorld/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="89" />
-    <option name="y" value="27" />
+    <option name="y" value="25" />
     <option name="width" value="1347" />
     <option name="height" value="837" />
   </component>
@@ -82,13 +89,13 @@
             <path>
               <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente2" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloCSSWorld" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente2" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloCSSWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,6 +107,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -135,15 +143,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553147549109</updated>
-      <workItem from="1553147557347" duration="5695000" />
+      <workItem from="1553147557347" duration="8347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5695000" />
+    <option name="totallyTimeSpent" value="8347000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="27" width="1347" height="837" extended-state="0" />
+    <frame x="89" y="25" width="1347" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -171,13 +179,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/messports.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente1/mesloisirs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -199,10 +200,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente1/messports.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="38" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloCSSWorld/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloCSSWorld/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="103">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
