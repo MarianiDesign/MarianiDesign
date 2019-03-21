@@ -1,0 +1,44 @@
+body
+{
+    width: 900px;
+    margin: auto;
+    background-color: mintcream;
+    background-image: url();
+    background-repeat: repeat-x
+}
+
+
+img
+{
+    border-radius: 25px;
+    background: black;
+    padding: 1px;
+    width: 300px;
+}
+
+h1
+{
+    font-size: 36px;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 24px;
+    text-align: center;
+}
+
+p
+{
+    size: 14px;
+    text-align: justify;
+}
+
+h1,h2
+   {
+       color: forestgreen;
+   }
+h2:hover
+{
+    background-color: blue;
+}
