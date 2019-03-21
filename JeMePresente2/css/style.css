@@ -7,6 +7,11 @@ body
     background-repeat: repeat-y
 }
 
+@font-face
+{
+    font-family: Roboto-Police;
+    src:url("Roboto-Regular.ttf");
+}
 
 img
 {
