@@ -1,0 +1,25 @@
+body
+{
+    width: 900px;
+    margin: auto;
+}
+
+h1
+{
+    color: deeppink;
+    font-size: 72px;
+    text-align: center;
+}
+
+p
+{
+    color: white;
+    font-size: 18px;
+    background-color: black;
+
+}
+
+p:hover
+{
+    background-color: hotpink;
+}
