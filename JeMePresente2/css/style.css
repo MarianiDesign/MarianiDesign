@@ -4,28 +4,34 @@ body
     margin: auto;
     background-color: mintcream;
     background-image: url();
-    background-repeat: repeat-x
+    background-repeat: repeat-y
 }
 
 
 img
 {
     border-radius: 25px;
+    border: 1px solid black;
     background: black;
     padding: 1px;
     width: 300px;
+    margin: auto;
+    display: block;
+}
+
+img:hover
+{
+    box-shadow: 5px 10px #888888;
 }
 
 h1
 {
     font-size: 36px;
-    text-align: center;
 }
 
 h1
 {
     font-size: 24px;
-    text-align: center;
 }
 
 p
@@ -34,11 +40,42 @@ p
     text-align: justify;
 }
 
+a
+{
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: blue;
+}
+
 h1,h2
    {
-       color: forestgreen;
+    color: forestgreen;
+    padding-left: 40px;
+    text-align: center;
    }
 h2:hover
 {
-    background-color: blue;
+    color: deeppink;
+}
+
+table,th,td
+{
+    border: 1px solid black;
+    color: black;
+    font-size: 24px;
+}
+ul
+{
+    text-align: left;
+}
+
+li
+{
+    color: black;
+    font-size: 24px;
 }
