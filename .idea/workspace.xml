@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JeMePresente1/img/Cegep_Trois-Rivieres.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Enfants_devant_le_lac.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/img/Enfants_devant_le_lac.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Mont_Rushmore_kids.png" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/img/Mont_Rushmore_kids.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mont_ski_alpes.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/img/mont_ski_alpes.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesetudes.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/mesetudes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesloisirs.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/mesloisirs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mesreves.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/mesreves.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messports.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/messports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/onepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente1/mesetudes.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente1/mesetudes.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +19,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="270">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -43,21 +47,28 @@
         <entry file="file://$PROJECT_DIR$/JeMePresente1/mesetudes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="99" />
+              <caret line="10" column="10" selection-start-line="10" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente1/mesloisirs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="180">
+              <caret line="12" column="116" selection-start-line="12" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,6 +82,7 @@
         <option value="$PROJECT_DIR$/JeMePresente1/messports.html" />
         <option value="$PROJECT_DIR$/JeMePresente1/mesetudes.html" />
         <option value="$PROJECT_DIR$/JeMePresente1/index.html" />
+        <option value="$PROJECT_DIR$/JeMePresente2/index.html" />
       </list>
     </option>
   </component>
@@ -93,11 +105,6 @@
               <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -106,12 +113,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JeMePresente1/img" />
       <recent name="$PROJECT_DIR$/JeMePresente1" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -138,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553147549109</updated>
-      <workItem from="1553147557347" duration="3773000" />
+      <workItem from="1553147557347" duration="5287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3773000" />
+    <option name="totallyTimeSpent" value="5287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="27" width="1347" height="837" extended-state="0" />
@@ -174,13 +183,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente1/messports.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -188,17 +190,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/mesetudes.html">
+    <entry file="file://$PROJECT_DIR$/JeMePresente1/mesloisirs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="99" />
+        <state relative-caret-position="180">
+          <caret line="12" column="116" selection-start-line="12" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/mesloisirs.html">
+    <entry file="file://$PROJECT_DIR$/JeMePresente1/mesetudes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
