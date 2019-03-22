@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloBootstrapWorld/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HelloBootstrapWorld/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloBootstrapWorld/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloBootstrapWorld/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="359">
+              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -110,8 +108,8 @@
         <option value="$PROJECT_DIR$/JeMePresente2/css/style.css" />
         <option value="$PROJECT_DIR$/JeMePresente2/css/styleClasses.css" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/atelier.html" />
-        <option value="$PROJECT_DIR$/HelloBootstrapWorld/index.html" />
         <option value="$PROJECT_DIR$/HelloBootstrapWorld/css/style.css" />
+        <option value="$PROJECT_DIR$/HelloBootstrapWorld/index.html" />
       </list>
     </option>
   </component>
@@ -187,12 +185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553147549109</updated>
-      <workItem from="1553147557347" duration="18744000" />
+      <workItem from="1553147557347" duration="19189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18744000" />
+    <option name="totallyTimeSpent" value="19189000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,8 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="359">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
         </state>
       </provider>
     </entry>
