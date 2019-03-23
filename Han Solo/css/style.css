@@ -1,7 +1,10 @@
+Style.css
+**/
+
 body
 {
     width: 1000px;
-    background-image: url("");
+    background-image: url("..img/etoileMort.jpg");
     background-repeat: no-repeat;
     background-color: black;
     margin: auto;
@@ -10,7 +13,7 @@ body
 @font-face
 {
     font-family: jedi;
-    src: url("Starjedi.ttf");
+    src: url("../font/Starjedi.ttf");
 }
 
 h1
