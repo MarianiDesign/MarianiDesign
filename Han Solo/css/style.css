@@ -1,0 +1,51 @@
+body
+{
+    width: 1000px;
+    background-image: url(img/etoileMort.jpeg);
+    background-color: black;
+    margin: auto;
+}
+
+h1
+{
+    color: yellow;
+    font-size: 140px;
+    font-family: Starjedi.tff;
+    text-align: center;
+    margin: 0;
+}
+
+h2,h3,h4
+{
+    color: white;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 72px;
+}
+
+h3
+{
+    font-size: 60px;
+}
+
+h4
+{
+    font-size: 44px;
+}
+
+p
+{
+    color: white;
+    font-size: 16px;
+    text-align: justify;
+
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
