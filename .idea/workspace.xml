@@ -5,9 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Module 'Han Solo'" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Han Solo/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Han Solo/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="519">
+              <caret line="76" column="10" lean-forward="true" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HanSolo/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="488">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -78,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="69" />
+    <option name="y" value="63" />
     <option name="width" value="1231" />
     <option name="height" value="837" />
   </component>
@@ -96,56 +94,6 @@
             <path>
               <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="font" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloBootstrapWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloBootstrapWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloCSSWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MarianiDesign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MarianiDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,12 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553147549109</updated>
       <workItem from="1553147557347" duration="22400000" />
-      <workItem from="1553359977706" duration="8181000" />
+      <workItem from="1553359977706" duration="8755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30581000" />
+    <option name="totallyTimeSpent" value="31155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,7 +161,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="23" width="1231" height="837" extended-state="0" />
+    <frame x="69" y="63" width="1231" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2783852" />
@@ -351,20 +299,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/img/etoileMort.jpg">
+    <entry file="file://$PROJECT_DIR$/HanSolo/img/etoileMort.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
+    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="519">
+          <caret line="76" column="10" lean-forward="true" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+    <entry file="file://$PROJECT_DIR$/HanSolo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="488">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
