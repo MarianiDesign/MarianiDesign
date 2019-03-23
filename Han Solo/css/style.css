@@ -1,17 +1,23 @@
 body
 {
     width: 1000px;
-    background-image: url("img/etoileMort.jpg");
+    background-image: url("");
     background-repeat: no-repeat;
     background-color: black;
     margin: auto;
 }
 
+@font-face
+{
+    font-family: jedi;
+    src: url("Starjedi.ttf");
+}
+
 h1
 {
     color: yellow;
+    font-family: jedi;
     font-size: 140px;
-    font-style: ''Starjedi.tff'';
     text-align: center;
     margin: 0;
 }
