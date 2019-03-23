@@ -1,7 +1,8 @@
 body
 {
     width: 1000px;
-    background-image: url(img/etoileMort.jpeg);
+    background-image: url("img/etoileMort.jpg");
+    background-repeat: no-repeat;
     background-color: black;
     margin: auto;
 }
@@ -10,7 +11,7 @@ h1
 {
     color: yellow;
     font-size: 140px;
-    font-family: Starjedi.tff;
+    font-style: ''Starjedi.tff'';
     text-align: center;
     margin: 0;
 }
@@ -53,4 +54,9 @@ img
 .title
 {
     color: yellow;
+}
+
+a
+{
+    color: white;
 }
