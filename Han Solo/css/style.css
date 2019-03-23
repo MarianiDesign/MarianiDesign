@@ -49,3 +49,8 @@ img
     display: block;
     margin: auto;
 }
+
+.title
+{
+    color: yellow;
+}
