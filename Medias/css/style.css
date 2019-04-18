@@ -1,0 +1,28 @@
+.container-fluid
+{
+    margin: 0px;
+    height: 100%;
+}
+
+.bg
+{
+    background-image: url(../img/switzerland.jpg);
+    background-position: center;
+}
+
+.hr
+{
+    background-position: right;
+    background-repeat:  no-repeat;
+}
+
+.bgOrange{
+    max-width: 50px;
+    border-width: 6px;
+
+}
+
+.grosseMarge{
+    margin-top: 100px
+    margin-bottom:100px
+}
