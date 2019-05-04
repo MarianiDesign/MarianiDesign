@@ -76,6 +76,9 @@ html,body
     padding: 6px;
 }
 
+.fa-check {color: #FF0000; }
+.fa-check::before {color: black; }
+
 .button
 {
     background-color: orangered;
