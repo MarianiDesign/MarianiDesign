@@ -43,10 +43,6 @@ html,body
     height: 500px;
 }
 
-.lheight{
-    line-height: 1;
-}
-
 .carrejaune {
     background-color: yellow;
     opacity: .5;
@@ -86,6 +82,11 @@ html,body
     border-radius: 6px;
     border-color: orangered;
     padding: 24px;
+}
+
+.padding
+{
+    padding-top: 18px;
 }
 
 .checkred
