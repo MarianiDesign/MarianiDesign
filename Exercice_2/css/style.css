@@ -76,24 +76,26 @@ html,body
     padding: 6px;
 }
 
-.fa-check {color: red; }
+.fa-check
+{
+    color: red;
+}
 
+.checkred
+{
+    color: #e84819;
+}
+
+.fa-chevron-right
+{
+    color: #e84819;
+}
 .button
 {
     background-color: orangered;
     border-radius: 6px;
     border-color: orangered;
     padding: 24px;
-}
-
-.padding
-{
-    padding-top: 18px;
-}
-
-.checkred
-{
-    color: #e84819;
 }
 
 .whitecolor
