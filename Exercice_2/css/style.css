@@ -77,7 +77,6 @@ html,body
 }
 
 .fa-check {color: red; }
-.fa-check::before {color: black; }
 
 .button
 {
