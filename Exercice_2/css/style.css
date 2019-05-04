@@ -46,14 +46,17 @@ html,body
     background-color: rgba(255, 255, 255, .5);
 }
 
-h1
-h2
-h3 {
+h3
+{
     text-transform: uppercase;
     font-weight: bold;
 }
 
 h4
+{
+    text-transform: uppercase;
+    font-weight: bold;
+}
 
 .bggreen
 {
@@ -79,7 +82,20 @@ h4
     padding: 6px;
 }
 
+.button
+{
+    background-color: orangered;
+    border-radius: 6px;
+    border-color: orangered;
+    padding: 24px;
+}
+
 .checkred
 {
     color: #e84819;
+}
+
+.whitecolor
+{
+    color: white;
 }
