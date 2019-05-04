@@ -15,14 +15,14 @@ html,body
 
 .parallax2
 {
-    background-image: url("../");
+    background-image: url("../img/photo-cegep-coding.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 
 .parallax3 {
-    background-image: url("../");
+    background-image: url("../img/photo-cegep-serveurs.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -58,7 +58,7 @@ h4
 .bggreen
 {
     padding: 50px;
-    backhroung-color:rgb(51,181,115)
+    background-color:rgb(51,181,115)
 }
 .bgbrown
 {
@@ -66,10 +66,9 @@ h4
     background-color:rgb(201,188,133)
 }
 
-.bgblue
-}
-padding: 50px;
-background-color:rgb(30,161,189)
+.bgblue{
+    padding: 50px;
+    background-color: rgb(30,161,189);
 }
 
 .button5
