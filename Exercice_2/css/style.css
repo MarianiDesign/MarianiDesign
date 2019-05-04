@@ -77,5 +77,9 @@ h4
     border-radius: 6px;
     border-color: white;
     padding: 6px;
-;
+}
+
+.checkred
+{
+    color: #e84819;
 }
