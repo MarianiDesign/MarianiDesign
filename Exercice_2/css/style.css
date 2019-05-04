@@ -13,36 +13,70 @@ html,body
     background-repeat: no-repeat;
 }
 
-.h-90
+.parallax2
 {
+    background-image: url("../");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+.parallax3 {
+    background-image: url("../");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+.h-90 {
     height: 90%;
 }
 
-.h-10
-{
+.h-10 {
     height: 10%;
 }
 
-.carrejaune
-{
+.carrejaune {
     color: white;
     background-color: yellow;
     opacity: .5;
 }
-.carregris
-{
-    background-color: rgba(255,255,255,.5);
+
+.carregris {
+    background-color: rgba(255, 255, 255, .5);
 }
 
 h1
-
 h2
-
-h3
-{
+h3 {
     text-transform: uppercase;
     font-weight: bold;
 }
 
-
 h4
+
+.bggreen
+{
+    padding: 50px;
+    backhroung-color:rgb(51,181,115)
+}
+.bgbrown
+{
+    padding: 50px;
+    background-color:rgb(201,188,133)
+}
+
+.bgblue
+}
+padding: 50px;
+background-color:rgb(30,161,189)
+}
+
+.button5
+{
+    background-color: white;
+    border-radius: 6px;
+    border-color: white;
+    padding: 6px;
+;
+}
