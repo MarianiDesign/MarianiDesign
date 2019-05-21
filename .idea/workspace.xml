@@ -5,7 +5,9 @@
     <option name="CUSTOM_SCOPE_NAME" value="Module 'Han Solo'" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="0" />
+    <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="0">
+      <change beforePath="$PROJECT_DIR$/MarianiDesign/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MarianiDesign/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MarianiDesign/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="123" column="15" selection-start-line="123" selection-start-column="15" selection-end-line="123" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarianiDesign/img/Salon_logo_femhom.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarianiDesign/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1181">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="441">
+              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -106,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="63" />
     <option name="width" value="1349" />
     <option name="height" value="857" />
@@ -217,12 +205,12 @@
       <workItem from="1556961562749" duration="1533000" />
       <workItem from="1556963424959" duration="993000" />
       <workItem from="1556975433376" duration="682000" />
-      <workItem from="1556977356165" duration="36352000" />
+      <workItem from="1556977356165" duration="36358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100501000" />
+    <option name="totallyTimeSpent" value="100507000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,7 +222,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="63" width="1349" height="857" extended-state="1" />
+    <frame x="0" y="63" width="1349" height="857" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7281046" visible="true" weight="0.30986995" />
       <window_info id="Structure" order="1" sideWeight="0.27189544" side_tool="true" visible="true" weight="0.30986995" />
@@ -488,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MarianiDesign/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="123" column="15" selection-start-line="123" selection-start-column="15" selection-end-line="123" selection-end-column="15" />
+        <state relative-caret-position="441">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
         </state>
       </provider>
     </entry>
