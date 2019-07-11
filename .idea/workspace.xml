@@ -5,82 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Module 'Han Solo'" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="0">
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/fonts/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/fonts/Montserrat-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/fonts/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/fonts/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/JJ_mockup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Logo_Johanne_jacques.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/MJLPainting_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Marcello_DiGregorio_Tshirt_Mockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Mariani_design_favicon_512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Melanie_Girarg_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Mockup_Logo_Johanne_jacques.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Natcha_Logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Productions_YG_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/Salon_logo_femhom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/YellowBackground.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/biosphere_mockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/classe-etudiante-cegep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/facebook_cover_MJLP_vf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/illustration_tshirt_marianidesign.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/logo_Piscine_ideal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/img/window_natcha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/MarianiDesign2/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/Template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/formulaireEnvoye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2/modal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8fcf7d7b-14c7-478b-8823-08d488c4c8c6" name="Default Changelist" comment="0" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/Web2/Template/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="137">
-              <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+              <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -129,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Web2/MarianiDesign2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="315">
+              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
               <folding>
                 <element signature="e#7600#7607#1" expanded="true" />
               </folding>
@@ -142,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/Web2/MarianiDesign2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2144">
-              <caret line="147" column="23" lean-forward="true" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+              <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -215,10 +140,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="40" />
-    <option name="width" value="1318" />
-    <option name="height" value="816" />
+    <option name="x" value="5" />
+    <option name="y" value="64" />
+    <option name="width" value="1400" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -277,11 +202,11 @@
       <recent name="$PROJECT_DIR$/MyLittlePrinceAroundTheGlobe" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Web1" />
+      <recent name="$PROJECT_DIR$/Web2" />
       <recent name="$PROJECT_DIR$/Web2/MarianiDesign2/img" />
       <recent name="$PROJECT_DIR$/Web2/modal" />
       <recent name="$PROJECT_DIR$/MarianiDesign/img" />
-      <recent name="$PROJECT_DIR$/MarianiDesign/fonts" />
-      <recent name="$PROJECT_DIR$/MarianiDesign" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,12 +250,12 @@
       <workItem from="1556977356165" duration="38160000" />
       <workItem from="1558661230534" duration="4194000" />
       <workItem from="1560899434082" duration="515000" />
-      <workItem from="1561476146548" duration="10787000" />
+      <workItem from="1561476146548" duration="11746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117805000" />
+    <option name="totallyTimeSpent" value="118764000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +267,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="87" width="1318" height="816" extended-state="0" />
+    <frame x="8" y="33" width="1318" height="816" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7235142" visible="true" weight="0.2562696" />
       <window_info id="Structure" order="1" sideWeight="0.2764858" side_tool="true" weight="0.53544307" />
@@ -392,17 +317,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/messports.html">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente1/messports.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="38" selection-end-column="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente2/img/Enfants_devant_le_lac.jpeg">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente2/img/Enfants_devant_le_lac.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/exercice1.html">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloBootstrapWorld/exercice1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="668">
           <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
@@ -410,157 +335,157 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/js/exercice2.html" />
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/exercice2.html">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloBootstrapWorld/exercice2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente2/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/mesetudes.html">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente1/mesetudes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="10" selection-start-line="10" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente1/mesloisirs.html">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente1/mesloisirs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente2/css/styleClasses.css">
+    <entry file="file://$PROJECT_DIR$/Web1/JeMePresente2/css/styleClasses.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/img/etoileMort.jpg">
+    <entry file="file://$PROJECT_DIR$/Web1/HanSolo/img/etoileMort.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/HanSolo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
           <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloCSSWorld/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloCSSWorld/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciceX/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/ExerciceX/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloBootstrapWorld/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloBootstrapWorld/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloCSSWorld/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloCSSWorld/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciceX/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/ExerciceX/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="56" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medias/index.html">
+    <entry file="file://$PROJECT_DIR$/Web2/Medias/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medias/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web2/Medias/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/Facebook/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/Facebook/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/HanSolo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice_2/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/Web1/Exercice_2/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="1493" column="3" selection-start-line="1493" selection-start-column="3" selection-end-line="1493" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/exercice4.html">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloBootstrapWorld/exercice4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
           <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootstrapWorld/exercice3.html">
+    <entry file="file://$PROJECT_DIR$/Web1/HelloBootstrapWorld/exercice3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
@@ -568,23 +493,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MarianiDesign/img/GreenBackground.jpg" />
-    <entry file="file://$PROJECT_DIR$/MarianiDesign/css/bootstrap-reboot.css">
+    <entry file="file://$PROJECT_DIR$/Web1/MarianiDesign/css/bootstrap-reboot.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorrectionParralax/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/CorrectionParralax/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarianiDesign/img/illustration_tshirt_marianidesign.png">
+    <entry file="file://$PROJECT_DIR$/Web1/MarianiDesign/img/illustration_tshirt_marianidesign.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarianiDesign/img/Logo_Johanne_jacques.jpg">
+    <entry file="file://$PROJECT_DIR$/Web1/MarianiDesign/img/Logo_Johanne_jacques.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice_2/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/Exercice_2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="45" selection-start-line="45" selection-end-line="48" selection-end-column="1" />
@@ -593,17 +518,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MarianiDesign/img/photo-cegep-coding.jpg" />
     <entry file="file://$PROJECT_DIR$/MarianiDesign/img/logo3.png" />
-    <entry file="file://$PROJECT_DIR$/Exercice_2/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/Exercice_2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="24" column="10" selection-start-line="20" selection-start-column="4" selection-end-line="24" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarianiDesign/img/Salon_logo_femhom.jpg">
+    <entry file="file://$PROJECT_DIR$/Web1/MarianiDesign/img/Salon_logo_femhom.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarianiDesign/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Web1/MarianiDesign/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
@@ -628,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MarianiDesign/index.html">
+    <entry file="file://$PROJECT_DIR$/Web1/MarianiDesign/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="36" column="10" selection-start-line="23" selection-start-column="5" selection-end-line="36" selection-end-column="10" />
@@ -638,7 +563,7 @@
     <entry file="file://$PROJECT_DIR$/Web2/MarianiDesign2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2144">
-          <caret line="147" column="23" lean-forward="true" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+          <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -648,14 +573,14 @@
     <entry file="file://$PROJECT_DIR$/Web2/Template/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
-          <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Web2/MarianiDesign2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="315">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding>
             <element signature="e#7600#7607#1" expanded="true" />
           </folding>
