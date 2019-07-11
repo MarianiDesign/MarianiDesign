@@ -26,18 +26,38 @@
 <header id="header">
 <nav class="navbar navbar-expand-md sticky-top">
     <a class="navbar-brand" href="#">Mariani Design</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="#">À propos <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#">Services</a>
+
+            <a class="nav-item nav-link active" href="#">Services <span class="sr-only">(current)</span></a>
+            <div class="dropdown">
+                <a class="nav-item dropdown nav-link dropdown-toggle" href="#" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Menu
+                </a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="#" target="_blank">Design Graphique</a>
+                    <a class="dropdown-item" href="#" target="_blank">Intégration Web</a>
+                    <a class="dropdown-item" href="#" target="_blank">Médias Sociaux</a>
+                    <a class="dropdown-item" href="#" target="_blank">Articles promotionnels</a>
+                </div>
+
+            </div>
+                <div class="collapse navbar-collapse order-3 order-sm-2" id="navbarNavAltMarkup">
+                    <div class="navbar-nav ml-auto"></div>
+                </div>
             <a class="nav-item nav-link" href="#">Projets</a>
             <a class="nav-item nav-link disabled" href="#">Contact</a>
+
         </div>
     </div>
 </nav>
+
+
 </header>
 
 
@@ -212,7 +232,7 @@
     </div>
 </div>
 
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
 <script src="js/jquery-3.3.1.js"></script>
 <script src="js/bootstrap.js"></script>
