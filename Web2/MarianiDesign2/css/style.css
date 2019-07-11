@@ -1,0 +1,270 @@
+html,body
+{
+    margin: 0px;
+    height: 100%;
+}
+
+@font-face
+{
+    font-family: 'MontserratB';
+    src: url("../fonts/Montserrat-Bolf.ttf");
+}
+
+@font-face
+{
+    font-family: 'MontserratR';
+    src: url("../fonts/Montserrat-Regular.ttf");
+}
+
+@font-face
+{
+    font-family: 'MontserratL';
+    src: url("../fonts/Montserrat-Light.ttf");
+}
+
+body {
+    font-family: 'MontserratR', sans-serif;
+}
+
+.square
+{
+    width: 100%;
+    padding: 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+.parallax
+{
+    background-image: url("../img/YellowBackground.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+
+.parallax2
+{
+    background-image: url("../img/Marcello_DiGregorio_Tshirt_Mockup.png");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+
+.h-90 {
+    height: 85%;
+}
+
+.h-10 {
+    height: 15%;
+}
+
+.h-500 {
+    height: 500px;
+}
+
+.button5
+{
+    background-color: white;
+    border-radius: 8px;
+    border-color: white;
+    padding: 8px;
+}
+
+.fa-check
+{
+    color: red;
+}
+
+.checkred
+{
+    color: #e84819;
+}
+
+.fa-chevron-right
+{
+    color: #e84819;
+}
+.button
+{
+    background-color: orangered;
+    border-radius: 8px;
+    border-color: orangered;
+    padding: 8px;
+}
+
+img
+{
+    display: block;
+    max-width: 100%;
+    height: auto
+}
+
+.whitecolor
+{
+    color: white;
+}
+
+h1
+{
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+h3
+{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h4
+{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.container-fluid
+{
+    position: relative;
+    width: 100%;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+/*************** section navbar ************/
+
+.navbar {
+    background-color: #ffffff;
+}
+.navbar .navbar-brand {
+    color: #020202;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #ababab;
+}
+.navbar .navbar-text {
+    color: #020202;
+}
+.navbar .navbar-text a {
+    color: #ababab;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #ababab;
+}
+.navbar .navbar-nav .nav-link {
+    color: #020202;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #ababab;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #ababab;
+    background-color: #060107;
+}
+.navbar .navbar-toggle {
+    border-color: #060107;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #060107;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #020202;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #020202;
+}
+.navbar .navbar-link {
+    color: #020202;
+}
+.navbar .navbar-link:hover {
+    color: #ababab;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020202;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ababab;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ababab;
+        background-color: #060107;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020202;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ababab;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ababab;
+        background-color: #060107;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020202;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ababab;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ababab;
+        background-color: #060107;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020202;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ababab;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ababab;
+        background-color: #060107;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #020202;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ababab;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ababab;
+    background-color: #060107;
+}
