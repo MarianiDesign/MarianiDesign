@@ -34,6 +34,16 @@ body {
     background-position: center;
 }
 
+.boite
+{
+    margin: 50px;
+    padding: 50px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+
 .parallax
 {
     background-image: url("../img/World_Map.jpg");
@@ -107,6 +117,11 @@ img
 .whitecolor
 {
     color: white;
+}
+
+.blakckcolor
+{
+    color: black;
 }
 
 h1

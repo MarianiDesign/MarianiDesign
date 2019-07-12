@@ -4,9 +4,9 @@
 <!-- Le 2019-07-10 TP1 -->
 
 <html lang="fr-ca">
-<head>
 
-    <title>Mariani Design</title>
+<head>
+<link id="header">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="UTF-8">
@@ -14,16 +14,20 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
 
-<!-- favicon -->
-    <link rel="icon" type="image/png" href="img/StrollerIcon.png"
+<!-- META-->
+    <meta name="description" content="Les différentes activités à faire avec des bébés jeunes enfants et oyager autour du monde en famille" />
+    <meta http-equiv="author" content="Cynthia Mariani, Cici Mariani" />
+    <meta name="keywords" content="bébé, activités, enfants, été, sports, voyages, avion, train, musés, parcs, playgrounds" />
+    <title>Le temps été</title>
+<!--  FIN META-->
 
-</head>
+
+<link rel="icon" type="image/png" href="img/StrollerIcon.png">
 
 <!-- navbar -->
-<header id="header">
 
     <nav class="navbar navbar-expand-md sticky-top">
-        <a class="navbar-brand" href="#">Été 2019</a>
+        <a class="navbar-brand" href="index.html">Été 2019</a>
 
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,6 +51,7 @@
 <!-- section de droite-->
             </div>
                 <div class="d-flex flex-row order-2 order-sm-3 align-items-center">
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalYT">À l'Action</button>
                     <a class="nav-item nav-link" href="form.html">Contact</a>
                     <a class="nav-link" href="https://www.facebook.com/hi.mariani.co" target="www.facebook.com/hi.mariani.co">
                         <i class="fab fa-facebook"></i>
@@ -60,26 +65,13 @@
                 </div>
         </div>
     </nav>
-</header>
+</head>
 <!-- fin navbar -->
-
 <body>
-<!-- Jumbotron -->
-<section id="voyages">
-    <div class="jumbotron">
-        <div class="container text-center">
-        <h1 class="display-4 ">Voyager autour du monde!</h1>
-        <p class="lead">Parce qu'il n'y a pas d'âge pour voyager et explorer...</p>
-        <hr class="my-4">
-        <p class="lead">
-            <a class="btn btn-primary btn-lg" href="roadtrip.html" role="button">Partez avec nous!</a>
-        </p>
-        </div>
-    </div>
-</section>
-<!-- fin Jumbotron -->
 
+<section>
 <!-- Debut Carousel -->
+<section id="carousel">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <ul class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -105,126 +97,144 @@
         <a class="carousel-control-next" href="#myCarousel" data-slide="next">
             <span class="carousel-control-next-icon"></span>
         </a>
-
     </div>
+</section>
 <!-- fun Carousel -->
+
+<!-- Jumbotron -->
+<section id="voyages">
+    <div class="jumbotron">
+        <div class="container text-center">
+            <h1 class="display-4 ">Mes petits princes autour du monde!</h1>
+            <p class="lead">Parce qu'il n'y a pas d'âge pour voyager et explorer...</p>
+            <hr class="my-4">
+            <p class="lead">
+                <a class="btn btn-primary btn-lg" href="roadtrip.html" role="button">Partez avec nous!</a>
+            </p>
+        </div>
+    </div>
+</section>
+<!-- fin Jumbotron -->
 
 <!-- Zone suivez-nous -->
 
 <section id="suivez-nous">
-<div  class="container-fluid h-120 pb-5 pt-5 parallax">
-    <div class="row text-center align-items-center h-100 ">
-        <div class="offset-xl-3 col-xl-6">
-            <h1>Mes petits princes <br>autour du monde</h1>
-            <hr class="my-5">
-            <h2 class="whitecolor">En temps réel sur notre page facebook</h2>
-            <button type="button" class="button whitecolor" href="https://www.facebook.com/mylittleprincearoundtheglobe/">Suivez-nous!</button>
-        </div>
+    <div  class="container-fluid h-120 pb-5 pt-5 parallax">
+
+            <div class=" row text-center align-items-center h-100 ">
+                <div  class="offset-xl-3 col-xl-6">
+                    <h1>De parcs en musés <br>de trains en avion</h1>
+                    <hr class="my-5">
+                    <h2 class="#">En temps réel sur notre page instagram</h2>
+                    <button type="button" class="button whitecolor" href="https://www.instagram.com/my_littleprincearoundtheglobe/">Suivez-nous!</button>
+                </div>
+            </div>
     </div>
-</div>
 </section>
 
 <!-- Zone 2 -->
 
-<div class="container d-sm-block ">
-    <div class="row pb-5 pt-5 justify-content-center">
-        <h3 >Voyager est plus abordable qu'on le croit</h3>
-        <div class="col-xl-6 col-md-6 col-sm-12 ">
-            <h4 class="pt-5 ">Les essentiels</h4>
-            <ul class="fa-ul">
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Une bonne poussette
-                </li>
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Un grand sac à lunch
-                </li>
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Un appareil photo
-                </li>
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Des vêtements de rechanges
-                </li>
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    De la patience
-                </li>
-            </ul>
-            <button type=button class="button whitecolor">Suivez-nous!</button>
-        </div>
+<section id="Liste d'activites">
+    <div class="container d-sm-block ">
+        <div class="row pb-5 pt-5 justify-content-center">
+            <h3 >Voyager est plus abordable qu'on le croit</h3>
+            <div class="col-xl-6 col-md-6 col-sm-12 ">
+                <h4 class="pt-5 ">Les essentiels</h4>
+                <ul class="fa-ul">
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Une bonne poussette
+                    </li>
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Un grand sac à lunch
+                    </li>
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Un appareil photo
+                    </li>
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Des vêtements de rechanges
+                    </li>
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        De la patience
+                    </li>
+                </ul>
+                <button type=button class="button whitecolor">Suivez-nous!</button>
+            </div>
 
-        <div class="col-xl-6 col-md-6 col-sm-12">
-            <h4 class="pt-5 ">Une foule d'idées</h4>
-            <ul class="fa-ul">
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Visites de parcs
-                </li>
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Visites de musés
-                </li>
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Pic-nic à vélo
-                </li>
-                <li><span class="fa-li"><i class="fas fa-check"></i></span>
-                    Cueillette de fruits
-                </li>
+            <div class="col-xl-6 col-md-6 col-sm-12">
+                <h4 class="pt-5 ">Une foule d'idées</h4>
+                <ul class="fa-ul">
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Visites de parcs
+                    </li>
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Visites de musés
+                    </li>
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Pic-nic à vélo
+                    </li>
+                    <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                        Cueillette de fruits
+                    </li>
 
-            </ul>
-            <button type=button class="button whitecolor ">contactez-nous</button>
+                </ul>
+                <button type=button class="button whitecolor ">contactez-nous</button>
 
+            </div>
         </div>
     </div>
-</div>
+</section>
 
 <!-- Zone 3 -->
 
-<div class="container-fluid parallax2 ">
-     <div class="row align-items-center h-500">
-         <div class="col-12 offset-xl-8 offset-md-8 col-md-4 col-xl-4">
-             <h3>Le temps d'un été <br> on peut visiter la lune</h3>
-             <p>Il fallait y penser.</p>
-             <ul class="fa-ul">
-                 <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>
-                     Des milliers de parcs
-                 </li>
-                 <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>
-                     Des millions de villes
-                 </li>
-                 <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>
-                     Des campings à profusion
-                 </li>
-                 <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>
-                     ... et plus encore!
-                 </li>
-             </ul>
+<section id="idées montagne">
+    <div class="container-fluid parallax2 ">
+         <div class="row align-items-center h-500">
+             <div class="col-12 offset-xl-8 offset-md-8 col-md-4 col-xl-4">
+                 <h3>Le temps d'un été <br> on peut visiter la lune</h3>
+                 <p>Il fallait y penser.</p>
+                 <ul class="fa-ul">
+                     <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                         Des milliers de parcs
+                     </li>
+                     <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                         Des millions de villes
+                     </li>
+                     <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                         Des campings à profusion
+                     </li>
+                     <li><span class="fa-li"><i class="fas fa-baby-carriage"></i></span>
+                         ... et plus encore!
+                     </li>
+                 </ul>
+             </div>
          </div>
-     </div>
-
-</div>
+    </div>
+</section>
 
 <!-- Zone 4 -->
 
+<section id="photos de voyage">
     <div class="container-fluid text-center align-content-center ">
         <div class="row justify-content-center">
             <h3 class="pt-5 pb-3">...D'un parc à un autre</h3>
 
-        <div class="row no-gutters pt-3">
+            <div class="row no-gutters pt-3">
 
-            <div class="col-xl-4 col-md-6 col-sm-12">
-                <img src="img/IMG_0094.JPG" alt="Natcha Beauty" class="image">
+                <div class="col-xl-4 col-md-6 col-sm-12">
+                    <img src="img/LaRonde.JPG" alt="La Ronde" class="La ronde">
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-sm-12">
+                    <img src="img/MontRushmore.jpg" alt="Mont Rushmore" class="Mont Rushmore">
+                </div>
+
+                <div class="col-xl-4 col-md-12 col-sm-12">
+                    <img src="img/Camerises.JPG" alt="Cueillette de camerises" class="Champs Camerises">
+                </div>
             </div>
-
-            <div class="col-xl-4 col-md-6 col-sm-12">
-                <img src="img/IMG_0135 2.jpg" alt="MJL Painting" class="image">
-            </div>
-
-            <div class="col-xl-4 col-md-12 col-sm-12">
-                <img src="img/IMG_0400.JPG" alt="Construction Biosphere" class="image">
-            </div>
-
-
         </div>
     </div>
-
-
+</section>
 <!-- Zone 5 -->
 
     <div class="container-fluid parallax2 whitecolor">
@@ -241,36 +251,57 @@
 
     </div>
 
+ <footer id="bas de page" class="page-footer font-small  ">
 
- <footer id="bas de page" class="page-footer font-small parallax2 ">
-
-        <div class="footer-copyright text-center py-3 whitecolor">© 2019 Copyright:
+        <div class="footer-copyright text-center py-3 blackcolor">© 2019 Copyright:
             <a href="https://mdbootstrap.com/education/bootstrap/"> Mariani.co</a>
         </div>
 
 </footer>
 
-<!-- modal-->
-<div class="modal" tabindex="-1" role="dialog" id="exempleModal">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title>">Titre du modal</h5>
-                <button type="button" class="close" data-dismess="modal" aria-label="close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
+    <!--Modal: modalYT-->
+    <div class="modal fade" id="modalYT" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+
+            <!--Content-->
+            <div class="modal-content">
+
+                <!--Body-->
+                <div class="modal-body mb-0 p-0">
+
+                    <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A3PDXmYoF5U"
+                                allowfullscreen></iframe>
+                    </div>
+
+                </div>
+
+                <!--Footer-->
+                <div class="modal-footer justify-content-center flex-column flex-md-row">
+                    <span class="mr-4">Voyagez avec nous!</span>
+                    <div>
+                        <a type="button" class="btn-floating btn-sm btn-fb">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <!--Twitter-->
+                        <a type="button" class="btn-floating btn-sm btn-tw">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+
+                    </div>
+                    <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4"
+                            data-dismiss="modal">Fermer</button>
+
+
+                </div>
+
             </div>
-            <div class="modal-body">
-                <p>Modal body text goes here.</p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Save changes</button>
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            </div>
+            <!--/.Content-->
+
         </div>
     </div>
-</div>
-<!-- fin modal-->
+    <!--Modal: modalYT-->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
